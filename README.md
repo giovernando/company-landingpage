@@ -1,6 +1,3 @@
-## Link Web Company-LandingPage
-https://company-landingpage-lake.vercel.app
-
 # company-landingpage
 
 This template should help get you started developing with Vue 3 in Vite.
